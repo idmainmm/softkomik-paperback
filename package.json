@@ -1,0 +1,7 @@
+{
+  "name": "softkomik",
+  "version": "1.0.0",
+  "description": "Softkomik source untuk Paperback",
+  "main": "index.ts",
+  "author": "Nama Kamu"
+}

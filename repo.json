@@ -1,0 +1,14 @@
+{
+  "name": "Softkomik Extension Repo",
+  "description": "Repo untuk Softkomik di Paperback",
+  "extensions": [
+    {
+      "name": "Softkomik",
+      "version": "1.0.0",
+      "language": "id",
+      "contentRating": "ALL_AGE",
+      "icon": "https://raw.githubusercontent.com/<username>/softkomik-paperback/main/icon.png",
+      "package": "https://raw.githubusercontent.com/<username>/softkomik-paperback/main/extensions/softkomik/package.json"
+    }
+  ]
+}
