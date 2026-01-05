@@ -7,8 +7,8 @@
       "version": "1.0.0",
       "language": "id",
       "contentRating": "ALL_AGE",
-      "icon": "https://raw.githubusercontent.com/<username>/softkomik-paperback/main/icon.png",
-      "package": "https://raw.githubusercontent.com/<username>/softkomik-paperback/main/extensions/softkomik/package.json"
+      "icon": "https://raw.githubusercontent.com/idmainmm/softkomik-paperback/main/icon.png",
+      "package": "https://raw.githubusercontent.com/idmainmm/softkomik-paperback/main/extensions/softkomik/package.json"
     }
   ]
 }
